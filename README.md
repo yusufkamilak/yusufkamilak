@@ -8,5 +8,5 @@
 
 Contact me via yusufkamilak@icloud.com, [My Personal Website](https://yusufkamilak.com) or [My LinkedIn Profile](https://linkedin.com/in/yusufkamilak).
 
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufkamilak)](https://github.com/anuraghazra/github-readme-stats)
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufkamilak&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
